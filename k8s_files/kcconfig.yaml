@@ -1,0 +1,8 @@
+apiVersion: v1
+data:
+  name: Thiago
+kind: ConfigMap
+metadata:
+  creationTimestamp: null
+  name: kcconfig
+  namespace: dev-kc

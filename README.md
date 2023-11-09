@@ -23,3 +23,9 @@ Você pode expor o Docker do minikube com o comando:
 ```shell
 $ eval $(minikube docker-env)
 ```
+
+## Validação
+
+<p align="center">
+  <img src="img/ts.png" alt="Test Suite" />
+</p>
